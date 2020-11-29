@@ -7,3 +7,5 @@ Dans ce projet, nous disposons des données permettant de décrire un ensemble d
 # **Objectif du travail** : 
 
 Nous nous proposons d’entrainer des modèles et de comparer leur performances. Ces modèles ont pour but de classifier les articles dans des catégories spécifiques ‘categories’ en fonction de leurs titres, abstract, ou les 2 rassemblés. 
+
+**Pour mieux comprendre le travail et l'ensemble des résultats obtenus, vous pouvez voir le fichier PDF.** 
